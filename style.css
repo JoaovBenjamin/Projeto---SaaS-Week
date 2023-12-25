@@ -230,5 +230,7 @@ body{
 
     .register-form, .name-container{
       gap: 0.5px;
+      border: none;
+      margin-bottom: 0.5rem;
     }
 }
