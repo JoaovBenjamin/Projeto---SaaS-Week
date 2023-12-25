@@ -234,4 +234,8 @@ body{
       border: none;
       margin-bottom: 0.3rem;
     }
+
+    #email{
+      margin-bottom: 0.3rem;
+    }
 }
